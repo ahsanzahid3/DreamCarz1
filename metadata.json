@@ -1,0 +1,14 @@
+{
+  "name": "DreamCarz1",
+  "symbol": "DC1",
+  "description": "A community token created by the community",
+  "image": "https://raw.githubusercontent.com/ahsanzahid3/DreamCarz1/5c57718856c7d951120599f8a35947aafa09e82e/Favicon.png",
+   "extensions": {
+    "website": "https://dreamcarz1.org",
+    "twitter": "https://twitter.com/dreamcarz1",
+    "telegram": "https://t.me/dreamcarz1",
+    "facebook": "https://facebook.com/DreamCarz1",
+    "instagram": "https://twitter.com/DreamCarz1org",
+    "youtube": "https://youtube.com/c/DreamCarz1"  
+  } 
+}
